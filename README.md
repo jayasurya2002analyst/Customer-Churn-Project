@@ -133,6 +133,8 @@ Contract type is one of the strongest churn indicators
 
 📊 POWER BI Dashboard
 
+![POWER BI Dashboard](Images/Customers_Churm_BI_Image.png)
+
 An interactive Power BI dashboard was created to provide:
 
 Total customers & churn rate
