@@ -106,10 +106,10 @@ Evaluation Focus:
 Recall (Churn = Yes)
 
 ROC-AUC Score
+[ROC-AUC Score](Images/churn_roc_curve.png)
 
 Confusion Matrix
-
-Images/churn_confusion_matrix.png
+[Confusion Matrix](Images/churn_confusion_matrix.png)
 📈 Key Results
 
 Customer churn data is highly imbalanced
