@@ -109,6 +109,7 @@ ROC-AUC Score
 
 Confusion Matrix
 
+Images/churn_confusion_matrix.png
 📈 Key Results
 
 Customer churn data is highly imbalanced
