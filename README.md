@@ -3,6 +3,7 @@
 End-to-end Customer Churn Analytics project using SQL, Python, Machine Learning (SMOTE), and Power BI.
 
 This repository contains a complete Customer Churn Analytics project, covering:
+
 ✔ Data exploration and preprocessing  
 ✔ SQL based business analysis  
 ✔ Feature engineering and imbalance handling (SMOTE)  
@@ -42,7 +43,7 @@ Each row represents a unique customer
 
 Target variable: Churn (Yes / No)
 
-Key Features:
+KEY FEATURES :
 
 Customer tenure
 
@@ -53,6 +54,7 @@ Monthly & total charges
 Internet and phone services
 
 Payment method
+
 
 🛠 Tools & Technologies
 
@@ -67,6 +69,7 @@ Machine Learning: Scikit-learn, XGBoost
 Imbalanced Data Handling: SMOTE
 
 Visualization: Power BI
+
 
 🔄 Project Workflow
 
@@ -88,7 +91,9 @@ Business Insights & Recommendations
 
 Power BI Dashboard Creation
 
-🤖 Machine Learning Models Used
+
+
+🤖 MACHINE LEARNING MODELS Used
 
 Logistic Regression
 
@@ -116,7 +121,7 @@ Higher monthly charges increase churn risk
 
 XGBoost achieved the best performance after applying SMOTE
 
-🧠 Business Insights
+🧠 Business Insights 
 
 Converting month-to-month customers to long-term contracts can reduce churn
 
@@ -126,7 +131,7 @@ Early engagement is critical for new customers
 
 Contract type is one of the strongest churn indicators
 
-📊 Power BI Dashboard
+📊 POWER BI Dashboard
 
 An interactive Power BI dashboard was created to provide:
 
@@ -142,25 +147,45 @@ The dashboard helps stakeholders quickly identify high-risk segments and
 make data-driven retention decisions.
 
 📁 Repository Structure
+
 Customer-Churn-Project/
+
 │
+
 ├── Data/
+
 │   └── churn_dataset.csv / zip
+
 │
+
 ├── Notebooks/
+
 │   ├── 1 - Customer_Churn_EDA.ipynb
+
 │   ├── 2 - Customer_Churn_Feature_Engineering_&_Preprocessing_(Churn_Project).ipynb
+
 │   ├── 3 - Customer_Churn_Feature_Selection_&_ML_Readiness.ipynb
+
 │   └── 4 - Customer_Churn_Advanced_ML,_SMOTE_&_Hyperparameter_Tuning.ipynb
+
 │
+
 ├── Images/
+
 │   ├──churn_confusion_matrix.png
+
 │   └──churn_roc_curve.png
+
 │
+
 ├── SQL_Code/
+
 │   └──Customers_Churm_project
+
 ├── churn.pbix
+
 └── README.md
+
 
 🏆 Final Outcome
 
